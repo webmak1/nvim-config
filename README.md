@@ -1,4 +1,4 @@
-# [Oleksandr Kocherhin] nvim-config
+# [Oleksandr Kocherhin] Neovim configs from Oleksandr Kocherhin
 
 **Took from here:**  
 https://gitlab.com/ejiqpep/nvim-config
